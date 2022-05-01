@@ -1,0 +1,20 @@
+// The addoninfo.txt file is a metadata file that is required by all Zombie Panic! Source Workshop content
+"AddonInfo"
+{
+	// Add-on title that shows up in Add-ons list. ~30 chars max
+	"title"		"cabin_rost_b2"
+	
+	// short description that appears in the Add-on list screen...
+	"description"		"this is my first self made map it is in beta and have fun"
+	
+	// Add-on version.
+	"version"		"1.0.0"
+	
+	// Name/alias of the author
+	"author"		"|Davelix|"
+	
+	"type"		"map"
+	
+	// (Optional) Steam ID of author. We use this to construct a URL to the author's page.
+	"authorSteamID64"		"76561199081851348"
+}

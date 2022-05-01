@@ -1,0 +1,161 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Zombie Panic Source\zps\materials
+Loading C:\Users\Administrator\Desktop\Zombie Panic Source !\backupAndVmf\zpo_cabin_rost_b3\vmf\zpo_Cabin_Rost_2 - Kopie1.vmf
+Patching WVT material: maps/zpo_cabin_rost_2 - kopie1/nature/blendsandgrass008a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...Wrote C:\Users\Administrator\Desktop\Zombie Panic Source !\backupAndVmf\zpo_cabin_rost_b3\vmf\zpo_Cabin_Rost_2 - Kopie1.lin
+Areaportal leak ! File: C:\Users\Administrator\Desktop\Zombie Panic Source !\backupAndVmf\zpo_cabin_rost_b3\vmf\zpo_Cabin_Rost_2 - Kopie1.lin 
+Brush 180995: areaportal brush doesn't touch two areas
+
+Brush 180993: areaportal brush doesn't touch two areas
+
+Brush 180997: areaportal brush doesn't touch two areas
+
+Brush 180973: areaportal brush doesn't touch two areas
+
+Brush 180989: areaportal brush doesn't touch two areas
+
+Brush 180965: areaportal brush doesn't touch two areas
+
+Brush 180975: areaportal brush doesn't touch two areas
+
+Brush 180959: areaportal brush doesn't touch two areas
+
+Brush 180973: areaportal brush doesn't touch two areas
+
+Brush 180983: areaportal brush doesn't touch two areas
+
+Brush 180998: areaportal brush doesn't touch two areas
+
+Brush 180998: areaportal brush doesn't touch two areas
+
+Brush 180998: areaportal brush doesn't touch two areas
+
+Brush 180998: areaportal brush doesn't touch two areas
+
+Brush 180998: areaportal brush doesn't touch two areas
+
+Brush 180969: areaportal brush doesn't touch two areas
+
+Brush 180987: areaportal brush doesn't touch two areas
+
+Brush 180981: areaportal brush doesn't touch two areas
+
+Brush 180991: areaportal brush doesn't touch two areas
+
+Brush 180985: areaportal brush doesn't touch two areas
+
+Brush 180971: areaportal brush doesn't touch two areas
+
+Brush 180967: areaportal brush doesn't touch two areas
+
+Brush 180979: areaportal brush doesn't touch two areas
+
+Brush 180977: areaportal brush doesn't touch two areas
+
+Brush 180969: areaportal brush doesn't touch two areas
+
+Brush 180963: areaportal brush doesn't touch two areas
+
+Brush 180963: areaportal brush doesn't touch two areas
+
+Brush 180963: areaportal brush doesn't touch two areas
+
+Brush 180963: areaportal brush doesn't touch two areas
+
+Brush 180963: areaportal brush doesn't touch two areas
+
+Brush 180961: areaportal brush doesn't touch two areas
+
+Brush 180985: areaportal brush doesn't touch two areas
+done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 396 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Administrator\Desktop\Zombie Panic Source !\backupAndVmf\zpo_cabin_rost_b3\vmf\zpo_Cabin_Rost_2 - Kopie1.prt...Building visibility clusters...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/militia_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/militia_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Zombie Panic Source\zps\materials
+Loading C:\Users\Administrator\Desktop\Zombie Panic Source !\backupAndVmf\zpo_cabin_rost_b3\vmf\zpo_Cabin_Rost_2 - Kopie1.vmf
+Patching WVT material: maps/zpo_cabin_rost_2 - kopie1/nature/blendsandgrass008a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 398 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Administrator\Desktop\Zombie Panic Source !\backupAndVmf\zpo_cabin_rost_b3\vmf\zpo_Cabin_Rost_2 - Kopie1.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/militia_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/militia_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (622124 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...Error loading studio model "models/props_foliage/Grass_tuft_001b.mdl"!
+Error loading studio model "models/props_foliage/Grass_tuft_004b.mdl"!
+Error loading studio model "models/props_foliage/Grass_tuft_004a.mdl"!
+Error loading studio model "models/props_foliage/Grass_tuft_004d.mdl"!
+Error loading studio model "models/props_foliage/Grass_tuft_001a.mdl"!
+Error loading studio model "models/props_foliage/Grass_tuft_004c.mdl"!
+8...9...10
+Compacting texture/material tables...
+Reduced 7899 texinfos to 2776
+Reduced 319 texdatas to 283 (17023 bytes to 15621)
+Writing C:\Users\Administrator\Desktop\Zombie Panic Source !\backupAndVmf\zpo_cabin_rost_b3\vmf\zpo_Cabin_Rost_2 - Kopie1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\Administrator\Desktop\Zombie Panic Source !\backupAndVmf\zpo_cabin_rost_b3\vmf\zpo_Cabin_Rost_2 - Kopie1.bsp', but we don't own that location. Allowing.
+5 seconds elapsed
+
+
+
+4 threads
+reading c:\users\administrator\desktop\zombie panic source !\backupandvmf\zpo_cabin_rost_b3\vmf\zpo_Cabin_Rost_2 - Kopie1.bsp
+reading c:\users\administrator\desktop\zombie panic source !\backupandvmf\zpo_cabin_rost_b3\vmf\zpo_Cabin_Rost_2 - Kopie1.prt
+1080 portalclusters
+3102 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 5056 visible clusters (1.08%)
+Total clusters visible: 466634
+Average clusters visible: 432
+Building PAS...
+Average clusters audible: 1006
+visdatasize:271696  compressed from 293760
+writing c:\users\administrator\desktop\zombie panic source !\backupandvmf\zpo_cabin_rost_b3\vmf\zpo_Cabin_Rost_2 - Kopie1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\administrator\desktop\zombie panic source !\backupandvmf\zpo_cabin_rost_b3\vmf\zpo_Cabin_Rost_2 - Kopie1.bsp', but we don't own that location. Allowing.
+8 minutes, 7 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Zombie Panic Source\zps\materials
+Loading c:\users\administrator\desktop\zombie-panic-source-\zpo_cabin_rost_b3\vmf\zpo_cabin_rost_2 - kopie1.vmf
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\administrator\desktop\zombie-panic-source-\zpo_cabin_rost_b3\vmf\zpo_cabin_rost_2 - kopie1.bsp', but we don't own that location. Allowing.
+2 seconds elapsed
